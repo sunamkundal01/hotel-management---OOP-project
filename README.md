@@ -1,4 +1,4 @@
-# hotel-management---OOP-project
+# hotel-management -- OOP-project
 
 # Overview
 A Hotel Management tool designed to:
